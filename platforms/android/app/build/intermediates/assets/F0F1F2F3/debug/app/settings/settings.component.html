@@ -1,0 +1,14 @@
+<ActionBar class="app-bar" title=" Keep In Touch" android.icon="~/assets/appIcon.png" android.iconVisibility="always">
+        <NavigationButton android.systemIcon="ic_menu_compass" (tap)="changeSideDrawerVisibility()"></NavigationButton>
+</ActionBar>
+<RadSideDrawer tkExampleTitle tkToggleNavButton>
+        <StackLayout tkDrawerContent class="drawer-main-panel">
+                <app-drawer-content></app-drawer-content>
+        </StackLayout>
+        <StackLayout tkMainContent>
+                <StackLayout class="settings-main-panel">
+                        <Label col="0" text="Select amount of days between calls"></Label>
+                        <ListPicker [items]="days" [selectedIndex]="selectedDate" (selectedIndexChange)="selectedDayChanged($event)" class="p-15"></ListPicker>
+                </StackLayout>
+        </StackLayout>
+</RadSideDrawer>

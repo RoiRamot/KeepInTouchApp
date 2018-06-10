@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\bdd697f2c9ca6128f75bca1e54d14dbf2f278bca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\NativeScript\KeepInTouch2\platforms\android\app\build\intermediates\pre-dexed\F0F1F2F3\debug\classes_effe7bc8523750942baa3eaa681b38dfa7e89977.jar" />
+    </item>
+
+</items>

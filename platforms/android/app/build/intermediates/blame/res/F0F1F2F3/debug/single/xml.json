@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_dark_selected.xml",
+        "source": "C:\\Android\\.android\\build-cache\\77f77e27f2b08223bd8ac7de6b0e67b067aa572b\\output\\res\\xml\\chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_default_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\77f77e27f2b08223bd8ac7de6b0e67b067aa572b\\output\\res\\xml\\chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_light_selected.xml",
+        "source": "C:\\Android\\.android\\build-cache\\77f77e27f2b08223bd8ac7de6b0e67b067aa572b\\output\\res\\xml\\chart_palettes_light_selected.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\xml\\chart_palettes_default_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\77f77e27f2b08223bd8ac7de6b0e67b067aa572b\\output\\res\\xml\\chart_palettes_default_dark.xml"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]

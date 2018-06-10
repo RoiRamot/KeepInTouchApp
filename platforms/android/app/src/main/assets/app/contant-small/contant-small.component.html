@@ -1,0 +1,8 @@
+<GridLayout rows="*,20,5,20,*" columns="*,10,auto,10,auto" class="filtered-contacts-item-template-panel">
+    <Label text="{{ contact.name }}" row="1" col="0" class="label"></Label>
+    <Label text="{{ contact.id }}" row="3" col="0" class="label"></Label>
+    <Image src="~/assets/AddButton.png" stretch="aspectFit" row="1" col="4" rowSpan="3" *ngIf="!contact.isFriend" (tap)='add()'>
+    </Image>
+    <Image src="~/assets/RemoveButton.png" stretch="aspectFit" row="1" col="4" rowSpan="3" *ngIf="contact.isFriend" (tap)='remove()'>
+    </Image>
+</GridLayout>

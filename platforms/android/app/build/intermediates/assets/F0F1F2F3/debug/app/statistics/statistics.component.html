@@ -1,0 +1,15 @@
+<ActionBar class="app-bar" title=" Keep In Touch" android.icon="~/assets/appIcon.png" android.iconVisibility="always">
+    <NavigationButton android.systemIcon="ic_menu_compass" (tap)="changeSideDrawerVisibility()"></NavigationButton>
+</ActionBar>
+<RadSideDrawer tkExampleTitle tkToggleNavButton>
+        <StackLayout tkDrawerContent class="drawer-main-panel">
+                <app-drawer-content></app-drawer-content>
+        </StackLayout>
+        <StackLayout tkMainContent>
+                <RadCartesianChart tkExampleTitle tkToggleNavButton>
+                        <CategoricalAxis tkCartesianHorizontalAxis labelFitMode="Rotate" plotMode="OnTicks" showLabels="true" allowZoom="true" allowPan="true"></CategoricalAxis>
+                        <LinearAxis tkCartesianVerticalAxis></LinearAxis>
+                        <BarSeries tkCartesianSeries [items]="friendsListSource" categoryProperty="name" valueProperty="amount"></BarSeries>
+                    </RadCartesianChart>
+        </StackLayout>
+</RadSideDrawer>

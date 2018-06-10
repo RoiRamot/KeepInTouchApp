@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-mdpi\\background.png",
+        "source": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-mdpi\\logo.png",
+        "source": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    }
+]

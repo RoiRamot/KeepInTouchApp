@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\pressable_item_background.xml",
+        "source": "C:\\Android\\.android\\build-cache\\f28be81cfbf14a13b23ae698096ede1289ecd243\\output\\res\\drawable-v21\\pressable_item_background.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

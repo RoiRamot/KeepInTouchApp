@@ -1,0 +1,96 @@
+/*
+In NativeScript, the app.css file is where you place CSS rules that
+you would like to apply to your entire application. Check out
+http://docs.nativescript.org/ui/styling for a full list of the CSS
+selectors and properties you can use to style UI components.
+
+/*
+In many cases you may want to use the NativeScript core theme instead
+of writing your own CSS rules. For a full list of class names in the theme
+refer to http://docs.nativescript.org/ui/theme.
+*/
+@import '~nativescript-theme-core/css/core.light.css';
+
+*{
+    text-align: left; 
+    float: left;
+    direction: ltr;
+    
+}
+.filtered-contacts-item-template-panel{
+    padding: 20px;
+    text-align: left;
+    justify-items: left;
+}
+.header{
+    vertical-align: middle;
+    font-size: 20px;
+    text-align: center;
+}
+.sub-header{
+    font-size: 15px;
+    text-align: center;
+}
+.label{
+    font-size: 15px;
+    text-align: left; 
+    float: left;
+    direction: ltr;
+    position: absolute;
+    left: 0px;;
+    display: inline-block;
+}
+.recommendation-card-panel{
+    margin: 10px;
+    padding: 40px;
+    border-style: solid;
+    border-width: 4px;
+    background-color:white;
+    border-color: #5FA8D3;
+}
+.back-button{
+    height: 80px;
+    width: 80px;
+    margin: 0px 30px 0px 30px;
+}
+.app-bar{
+    background-color: #003F5F;
+    color: white;
+}
+.app-title{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: white;
+    vertical-align: center;    
+}
+.app-icon{
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 30px;
+    height: 150px;
+    width: 150px;
+}
+.contacts-search{
+    margin: 20px;
+}
+.app-main-panel{
+    background-color: #EDF7FF;
+}
+.drawer-main-panel{
+    padding: 50px;
+    background-color: #EDF7FF;
+}
+.drawer-button-icon{
+    height: 80px;
+    width: 80px;
+    margin-right: 30px;
+}
+.drawer-button-label{
+    font-size: 20px;
+    color: black;
+}
+.drawer-button{
+    margin: 20px;
+}

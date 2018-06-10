@@ -1,0 +1,49 @@
+{
+  "_from": "nativescript-CallLog",
+  "_id": "nativescript-CallLog@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-8qncuovanj1UIBBL5oBArHQFeWw=",
+  "_location": "/nativescript-CallLog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-CallLog",
+    "name": "nativescript-CallLog",
+    "escapedName": "nativescript-CallLog",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-CallLog/-/nativescript-CallLog-1.0.6.tgz",
+  "_shasum": "f2a9dcba8bda9e3d5420104be68040ac7405796c",
+  "_spec": "nativescript-CallLog",
+  "_where": "D:\\NativeScript\\KeepInTouch2",
+  "author": {
+    "name": "Vojtech Kozak"
+  },
+  "bugs": {
+    "url": "https://github.com/kozakvoj/nativescript-CallLog/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Provides call log history for NativeScript mobile applications.",
+  "gitHead": "570da038b1608119eb9a85f42995d8807ef50a96",
+  "homepage": "https://github.com/kozakvoj/nativescript-CallLog#readme",
+  "main": "index.js",
+  "name": "nativescript-CallLog",
+  "nativescript": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozakvoj/nativescript-CallLog.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}

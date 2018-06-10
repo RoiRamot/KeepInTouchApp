@@ -1,0 +1,31 @@
+<ActionBar class="app-bar" title=" Keep In Touch" android.icon="~/assets/appIcon.png" android.iconVisibility="always">
+        <NavigationButton android.systemIcon="ic_menu_compass" (tap)="changeSideDrawerVisibility()"></NavigationButton>
+</ActionBar>
+<RadSideDrawer tkExampleTitle tkToggleNavButton>
+        <StackLayout tkDrawerContent class="drawer-main-panel">
+                <app-drawer-content></app-drawer-content>
+        </StackLayout>
+        <StackLayout tkMainContent>
+                <GridLayout rows="auto,*">
+                        <DockLayout stretchLastChild="true" row="0">
+                                <Image *ngIf="!showRecommendations" src="~/assets/BackArrow.png" class="back-button" (tap)="refresh()" stretch="aspectFit">
+                                </Image>
+                                <SearchBar class="contacts-search" dock="top" hint="Search contact" autocorrect="false" (textChange)="onTextChange($event)"
+                                        (returnPress)="refresh()"></SearchBar>
+                        </DockLayout>
+                        <RadListView row="1" *ngIf="!showRecommendations" [items]="filteredContacts">
+                                <ng-template let-item="item">
+                                        <app-contant-small [contact]="item" (removeFriend)="removeFriend($event)" (addFriend)="addFriend($event)"></app-contant-small>
+                                </ng-template>
+                                <ListViewLinearLayout tkListViewLayout scrollDirection="Vertical" itemInsertAnimation="Default" itemDeleteAnimation="Default"></ListViewLinearLayout>
+                        </RadListView>
+                        <RadListView row="1" *ngIf="showRecommendations" [items]="recommendedContacts">
+                                <ng-template let-item="item">
+                                        <app-contant-card [contact]="item" (addFriend)="addFriend($event)"></app-contant-card>
+                                </ng-template>
+                                <ListViewGridLayout tkListViewLayout scrollDirection="Vertical" itemInsertAnimation="Fade" spanCount="2"></ListViewGridLayout>
+                        </RadListView>
+                        <ActivityIndicator row="1" #activityIndicator busy="true" width="100" height="100" class="activity-indicator" *ngIf='isBusy'></ActivityIndicator>
+                </GridLayout>
+        </StackLayout>
+</RadSideDrawer>

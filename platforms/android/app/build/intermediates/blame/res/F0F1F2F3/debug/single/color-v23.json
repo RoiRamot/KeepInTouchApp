@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Android\\.android\\build-cache\\0891effd37383f8ec1ab75f50833d72cb4a31629\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\NativeScript\\KeepInTouch2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2F3\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Android\\.android\\build-cache\\79f88aaa3b90abad2162d2c8f2efb418aeeb42c9\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    }
+]
